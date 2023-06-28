@@ -11,3 +11,4 @@ class Employee:
 emp1 = Employee("John",11)
 emp2 = Employee("David", 12)
 emp1.display()
+emp2.display()
