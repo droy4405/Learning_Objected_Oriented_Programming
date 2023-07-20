@@ -1,3 +1,17 @@
+* Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics: HW01
+   Date: July 19, 2023
+   Author: Dibyendu Roy
+   Purpose: 
+   For homework 02, I will be creating a calculator that can perform the following operations: add, subtract, multiply, divide, and alphabetize. The operations work as follows:
+
+    add - takes two integers, adds them together and prints out the result
+    subtract - takes two integers, subtracts the second entered integer from the first and prints out the result
+    multiply - takes two doubles, multiplies them together and prints out the result to two decimal places
+    divide - takes two doubles, divides the first entered double by the second and prints out the result to two decimal places
+    alphabetize - takes two words of only letters, and tells which word comes before the other lexicographically
+
+   */
+
 import java.util.Scanner;
 
 public class Calculator{
